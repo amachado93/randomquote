@@ -1,0 +1,28 @@
+/* -- Basic Reset -- */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+dl, dt, dd, ol, ul, li
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+ /* -- All Styling Below -- */
+
+body {
+ width: 100%;
+}
+
+h1, blockquote, p {
+  margin: 0 auto;
+}
+
+h1 {
+  width: 60%;
+  font-size: 3em;
+}
