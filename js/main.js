@@ -12,11 +12,12 @@
   'I was playing Minecraft on survival single player and herobrain hacked me and took away all my diamonds and killed me!1! - Typical Minecraft Player'
 ]
 
+  var button = document.getElementsByTagName('button')
 
-
-function newQuote() {
-  var randomNumber = Math.floor(Math.random() * (quotes.length));
-  document.getElementsByClassName('quoteDisplay').innerHTML = quotes[randomNumber];
+  button[0].addEventListener('click', function newQuote() {
+    var randomNumber = Math.floor(Math.random() * (quotes.length));
+    document.getElementsByClassName('quoteDisplay')[0].innerHTML = quotes[randomNumber];
 }
+)
 
 })()
