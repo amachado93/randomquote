@@ -46,3 +46,14 @@ button {
   top: 70%;
   left: 40%;
 }
+
+/* button placement for large screen */
+@media (min-width: 768px) {
+
+  button {
+    position: absolute;
+    top: 60%;
+    left: 47%;
+  }
+
+}
