@@ -8,7 +8,7 @@
   'The rough professor quickly dodged because some teacher humbly rolled below a hot plastic which, became a lovely, lovely professor. - Einstein',
   'When you think about an apple, you also think about the opposite of an apple. - Jaden Smith',
   'ayy lmao - unknown',
-  'Welcome to Hollywood, baby! You got start material written all over you! - Audrey Hepburn',
+  'Welcome to Hollywood, baby! You got star material written all over you! - Audrey Hepburn',
   'I was playing Minecraft on survival single player and herobrain hacked me and took away all my diamonds and killed me!1! - Typical Minecraft Player'
 ]
 
