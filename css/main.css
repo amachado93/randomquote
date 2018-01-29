@@ -16,13 +16,28 @@ dl, dt, dd, ol, ul, li
 
 body {
  width: 100%;
+ display: flex;
+ flex-direction: column;
+ align-content: space-between;
 }
 
 h1, blockquote, p {
   margin: 0 auto;
+  text-align: center;
 }
 
 h1 {
   width: 60%;
   font-size: 3em;
+  padding: 1em;
+}
+
+blockquote {
+  width: 40%;
+}
+
+button {
+  position: absolute;
+  top: 70%;
+  left: 40%;
 }
