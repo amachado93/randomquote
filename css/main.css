@@ -30,10 +30,15 @@ h1 {
   width: 60%;
   font-size: 3em;
   padding: 1em;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 blockquote {
   width: 40%;
+}
+
+p {
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 button {
